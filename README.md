@@ -1,2 +1,2 @@
-#  jothiarulprakash.github.io/portfolio/
+#  jothiarulprakash.github.io
  
